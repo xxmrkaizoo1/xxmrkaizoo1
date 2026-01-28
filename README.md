@@ -38,7 +38,7 @@
 <td width="50%" valign="top">
 
 ### 🟦 About Me
-I am a **Software Engineering student** who enjoys building real-world systems and learning how software works behind the scenes.  
+I am a **Computer Technology student** who enjoys building real-world systems and learning how software works behind the scenes.  
 My main focus is **backend and system development** using **Laravel, PHP, and Node.js**.  
 I also enjoy working on **IoT projects** and exploring **AI systems** using tools like **Ollama** on Linux environments.
 
