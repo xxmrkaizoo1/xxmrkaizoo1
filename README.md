@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌈👋 Hi, I'm xxmrkaizoo 👋🌈
+# 👋 Hi, I'm xxmrkaizoo 👋
 
 🟦 **Software Engineering Student**  
 🟩 **Web Developer** (Laravel • PHP • JavaScript)  
