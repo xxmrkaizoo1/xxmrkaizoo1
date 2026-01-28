@@ -1,4 +1,32 @@
+
+
 <div align="center">
+---
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🤖 AI & Machine Learning Modules
+I develop **basic AI and Machine Learning modules** as part of my student projects and learning journey.  
+These modules focus on **training models with data**, **processing inputs**, and **generating intelligent outputs** that can be integrated into web and system-based applications.
+
+**What my AI modules include:**
+- Designing simple **AI training pipelines**
+- Preparing and cleaning datasets for training
+- Training ML models using **supervised learning**
+- Saving and reusing trained models
+- Integrating AI modules into web systems (Laravel / Node.js)
+
+**AI & ML approach:**
+- Machine Learning fundamentals  
+- Rule-based + ML hybrid logic  
+- Local AI experimentation using **Ollama**  
+- Python-based model training (student level)
+
+</td>
+</tr>
+</table>
 
 #👋 Hi, I'm xxmrkaizoo 👋
 
