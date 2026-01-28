@@ -10,7 +10,7 @@
 
 #👋 Hi, I'm xxmrkaizoo 👋
 
-🟦 **Computer Teachnology Student**  
+🟦 **Computer Technology Student**  
 🟩 **Web Developer** (Laravel • PHP • JavaScript • Node.js)  
 🟨 **AI • IoT • Cybersecurity • Linux Enthusiast**
 
