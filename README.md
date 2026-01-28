@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/xxmrkaizoo.png" width="150" style="border-radius:50%;" />
+  <img src="https://github.com/xxmrkaizoo.jpg" width="150" style="border-radius:50%;" />
 </div>
 
 
