@@ -12,11 +12,9 @@
 
 <!-- NAME -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I%27m+xxmrkaizoo!"
-    alt="RGB Hacker Text"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I’m%20xxmrkaizoo!&fontSize=40&fontColor=00ff99&animation=fadeIn&descAlign=50" />
 </p>
+
 
 <!-- TYPING ANIMATION -->
 <p align="center">
