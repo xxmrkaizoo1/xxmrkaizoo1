@@ -13,10 +13,10 @@
 <!-- NAME -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=600&color=00FF99&center=true&vCenter=true&width=620&lines=%24+whoami;%24+whoa%7Cami;%24+wh0ami;xxmrkaizoo;xxmrmkaizoo;xxmrkaizoo;Acc3ss+Granted;Access+Granted"
-    alt="Glitch Terminal"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=550&color=00FF99&center=true&vCenter=true&width=650&lines=%24+whoami;%24+wh%23ami;%24+wh%240ami;xxmrkaizoo;A%23%23ESS+GRANTED;ACCESS+GRANTED"
   />
 </p>
+
 
 
 
