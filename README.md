@@ -12,7 +12,9 @@
 
 <!-- NAME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,%20I’m%20xxmrkaizoo!&fontSize=40&fontColor=00ff99&animation=fadeIn&descAlign=50" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=00FF99&center=true&vCenter=true&width=500&lines=%24+whoami;xxmrkaizoo;Access+Granted"
+  />
 </p>
 
 
