@@ -13,9 +13,11 @@
 <!-- NAME -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=550&color=00FF99&center=true&vCenter=true&width=650&lines=%24+whoami;%24+wh%23ami;%24+wh%240ami;xxmrkaizoo;A%23%23ESS+GRANTED;ACCESS+GRANTED"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=350&color=00FF99&center=true&vCenter=true&width=700&lines=%24+w%40o%7Cami;%24+wh0a%7Cmi;%24+wh%23ami;xxmrk%40izoo;xxmrmka%7Czoo;xxmrkaizoo;%5BERR%5D+AC%23%23ESS;%5BOK%5D+ACCESS+GRANTED"
+    alt="Aggressive Glitch Terminal"
   />
 </p>
+
 
 
 
