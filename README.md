@@ -70,12 +70,13 @@ I also explore **IoT projects** and experiment with **local AI tools** like **Ol
 
 <div align="center">
 
-### 📊 GitHub Stats (auto-update)
+<h3>📊 GitHub Stats (auto-update)</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xxmrkaizoo1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmrkaizoo1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xxmrkaizoo1&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmrkaizoo1&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400" />
 
 </div>
+
 
 ---
 
