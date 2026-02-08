@@ -170,4 +170,3 @@ I also explore **IoT projects** and experiment with **local AI tools** like **Ol
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,50:00ccff,100:ff00ff&height=120&section=footer&animation=twinkling" />
 
-</div> make bg    Matrix rain background using this code
