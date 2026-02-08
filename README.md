@@ -1,17 +1,16 @@
-
-
 <div align="center">
 
-<div align="center">
-  <img src="https://github.com/xxmrkaizoo1.png" width="150" style="border-radius:50%;" />
-</div>
+<img src="https://github.com/xxmrkaizoo1.png" width="150" style="border-radius:50%;" />
 
+## 👋 Hi, I'm xxmrkaizoo!
 
-👋 Hi, I'm xxmrkaizoo 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Always+learning+something+new+%F0%9F%9A%80" />
 
-🟦 **Computer Technology  Student**  
+🟦 **Computer Technology Student**  
 🟩 **Web Developer** (Laravel • PHP • JavaScript • Node.js)  
 🟨 **AI • IoT • Cybersecurity • Linux Enthusiast**
+
+<img src="https://komarev.com/ghpvc/?username=xxmrkaizoo1&style=for-the-badge" />
 
 </div>
 
@@ -19,30 +18,28 @@
 
 <div align="center">
 
+### 🧰 Tech Badges
+
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-
-
 </div>
-
 
 ---
 
@@ -51,9 +48,9 @@
 <td width="50%" valign="top">
 
 ### 🟦 About Me
-I am a **Technology Computer student** who enjoys building real-world systems and learning how software works behind the scenes.  
-My main focus is **backend and system development** using **Laravel, PHP, and Node.js**.  
-I also enjoy working on **IoT projects** and exploring **AI systems** using tools like **Ollama** on Linux environments.
+I’m a **Computer Technology student** who enjoys building real-world systems and learning how software works behind the scenes.  
+My main focus is **backend & system development** using **Laravel, PHP, and Node.js**.  
+I also explore **IoT projects** and experiment with **local AI tools** like **Ollama** on Linux.
 
 </td>
 <td width="50%" valign="top">
@@ -69,7 +66,15 @@ I also enjoy working on **IoT projects** and exploring **AI systems** using tool
 </tr>
 </table>
 
+---
 
+### 📊 GitHub Stats (auto-update)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xxmrkaizoo1&show_icons=true&hide_title=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmrkaizoo1&layout=compact" />
+
+</div>
 
 ---
 
@@ -77,27 +82,22 @@ I also enjoy working on **IoT projects** and exploring **AI systems** using tool
 <tr>
 <td width="100%" valign="top">
 
-### 🤖 AI & Machine Learning Modules
-I develop **basic AI and Machine Learning modules** as part of my student projects and learning journey.  
-These modules focus on **training models with data**, **processing inputs**, and **generating intelligent outputs** that can be integrated into web and system-based applications.
+### 🤖 AI & Machine Learning (Student Level)
+I build **basic AI/ML modules** as part of my learning journey.  
+These modules focus on:
+- simple **training workflows**
+- preparing datasets
+- supervised learning basics
+- saving & reusing trained models
+- integrating with web apps (Laravel / Node.js)
 
-**What my AI modules include:**
-- Designing simple **AI training pipelines**
-- Preparing and cleaning datasets for training
-- Training ML models using **supervised learning**
-- Saving and reusing trained models
-- Integrating AI modules into web systems (Laravel / Node.js)
-
-**AI & ML approach:**
-- Machine Learning fundamentals  
-- Rule-based + ML hybrid logic  
-- Local AI experimentation using **Ollama**  
-- Python-based model training (student level)
+Tools I explore:
+- **Python (basic)**  
+- local AI experimentation using **Ollama**  
 
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -105,22 +105,22 @@ These modules focus on **training models with data**, **processing inputs**, and
 <tr>
 <td width="50%" valign="top">
 
-### 🟨 Tech Stack
+### 🟨 Tech Stack (Simple)
 🔴 Backend: Laravel, PHP, Node.js  
-🟡 Frontend: HTML, CSS, JavaScript, Tailwind CSS  
+🟡 Frontend: HTML, CSS, JavaScript, Tailwind  
 🔵 Database: MySQL  
 🟢 AI Tools: Ollama (local LLM)  
-🟣 IoT: ESP32, Sensors (basic)  
+🟣 IoT: ESP32 + sensors (basic)  
 ⚫ OS: Linux, Windows  
-🟤 Other: Python (basic), Git & GitHub  
+🟤 Others: Git & GitHub  
 
 </td>
 <td width="50%" valign="top">
 
-### 🟥 Current Goals
+### 🎯 Current Goals
 ✅ Improve backend & API skills  
-✅ Build full-stack apps with Node.js  
-✅ Create AI projects using Ollama  
+✅ Build full-stack apps (Laravel + React / Node)  
+✅ Create small AI projects using Ollama  
 ✅ Build more IoT systems  
 ✅ Strengthen Linux knowledge  
 ✅ Prepare for internship  
@@ -138,9 +138,9 @@ These modules focus on **training models with data**, **processing inputs**, and
 ### 🟪 Featured Projects
 🔹 **E-Health System** – Laravel-based student health record system  
 🔹 **AI Chat Student** – Local AI chatbot using Ollama & Python  
-🔹 **IoT Water Plant System** – ESP32-based monitoring & automation  
+🔹 **IoT Water Plant System** – ESP32 monitoring & automation  
 🔹 **Mini Full-Stack Projects** – Laravel, Node.js, Tailwind CSS  
-🔹 **ManyMore!!**  
+🔹 **More coming soon...** 🚀
 
 </td>
 </tr>
@@ -148,15 +148,12 @@ These modules focus on **training models with data**, **processing inputs**, and
 
 ---
 
-<table>
-<tr>
-<td width="100%" align="center">
+<div align="center">
 
 ### 🟧 Contact
 🔗 GitHub: https://github.com/xxmrkaizoo1  
 
-✨ **Always learning, always improving.** ✨
+✨ **Always learning, always improving.** ✨  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
 
-</td>
-</tr>
-</table>
+</div>
