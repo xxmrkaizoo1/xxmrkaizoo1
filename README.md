@@ -25,7 +25,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Full+Stack+Develepor;Linux+Enjoyer;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=650&lines=Computer+Technology+Student;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity+Learner;Full+Stack+Develepor;Linux+Enjoyer;Always+learning+something+new&#x1F680" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="500" />
