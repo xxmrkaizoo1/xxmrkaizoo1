@@ -11,7 +11,12 @@
 </p>
 
 <!-- NAME -->
-<h2 align="center">👋 Hi, I'm xxmrkaizoo!</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=420&lines=Hi%2C+I%27m+xxmrkaizoo!"
+    alt="RGB Hacker Text"
+  />
+</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
