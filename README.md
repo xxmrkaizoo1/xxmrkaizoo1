@@ -163,7 +163,7 @@ I also explore **IoT projects** and experiment with **local AI tools** like **Ol
 <td width="100%" valign="top">
 
 ### 🟪 Featured Projects
-🔹 E-Health System (Laravel)  
+🔹 E-Health System  
 🔹 AI Chat Student (Ollama + Python)  
 🔹 IoT Water Plant System (ESP32)  
 🔹 Mini Full-Stack Projects  
