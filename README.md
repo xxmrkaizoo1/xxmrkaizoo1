@@ -31,6 +31,7 @@ xxmrkaizoo@linux:~$ whoami
 name:      xxmrkaizoo
 role:      Computer Technology Student
 focus:     Backend & full-stack web development
+workflow:  AI-assisted development, human understanding
 stack:     [Laravel, PHP, Node.js, React, TypeScript]
 exploring: [AI with Ollama, IoT with ESP32, Cybersecurity]
 os:        Linux enjoyer 🐧
@@ -39,8 +40,13 @@ status:    always learning something new
 
 ```bash
 xxmrkaizoo@linux:~$ cat mission.txt
-> Build real-world systems and understand how
-> software works behind the scenes.
+> I build software with AI as my co-pilot,
+> but I don't just ship code I can't explain.
+> I dig into how each system works: the data
+> flow, the database, the security rules, and
+> why each piece is there.
+>
+> AI writes faster. I make sure I understand it.
 ```
 
 </td>
@@ -48,7 +54,7 @@ xxmrkaizoo@linux:~$ cat mission.txt
 
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Hacker terminal" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00CCFF&center=true&vCenter=true&width=320&lines=Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity;Full-Stack+Developer;Linux+Enjoyer" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00CCFF&center=true&vCenter=true&width=320&lines=Building+with+AI;Understanding+every+system;Backend+%26+Web+Developer;AI+%7C+IoT+%7C+Cybersecurity;Linux+Enjoyer" alt="Typing" />
 
 </td>
 </tr>
