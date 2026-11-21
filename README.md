@@ -1,6 +1,6 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:00ff99,70:00ccff,100:ff00ff&height=220&section=header&text=xxmrkaizoo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Technology%20Student%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=60&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:00ff99,70:00ccff,100:ff00ff&height=220&section=header&text=xxmrkaizoo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Full-Stack%20Developer&descSize=16&descAlignY=60&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@ xxmrkaizoo@linux:~$ whoami
 
 ```yaml
 name:      xxmrkaizoo
-role:      Computer Technology Student
+role:      Computer Science Student
 focus:     Backend & full-stack web development
 workflow:  AI-assisted development, human understanding
 stack:     [Laravel, PHP, Node.js, React, TypeScript]
