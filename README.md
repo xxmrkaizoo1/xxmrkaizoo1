@@ -115,7 +115,7 @@ Music player that learns what you like. Explainable recommendations, a 3D glass 
 ### 🗺️ [Community Reporter](https://github.com/xxmrkaizoo1/BOUNTY-b95ae48a)
 Game-themed PWA where residents report local problems, follow them and confirm the fix, earning XP and climbing the leaderboard.
 
-<a href="https://github.com/xxmrkaizoo1/BOUNTY-b95ae48a"><img src="https://raw.githubusercontent.com/xxmrkaizoo1/BOUNTY-b95ae48a/main/docs/screenshots/profile.png" width="100%" alt="Community Reporter screenshot" /></a>
+<a href="https://github.com/xxmrkaizoo1/BOUNTY-b95ae48a"><img src="https://raw.githubusercontent.com/xxmrkaizoo1/BOUNTY-b95ae48a/main/docs/screenshots/admin.png" width="100%" alt="Community Reporter screenshot" /></a>
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript)
