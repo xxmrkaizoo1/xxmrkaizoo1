@@ -70,7 +70,7 @@ xxmrkaizoo@linux:~$ cat mission.txt
 </tr>
 <tr>
   <td align="center"><b>🟡 Frontend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind&theme=dark" /></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,vite&theme=dark" /></td>
 </tr>
 <tr>
   <td align="center"><b>🔵 Data & Cloud</b></td>
@@ -94,7 +94,23 @@ xxmrkaizoo@linux:~$ cat mission.txt
 
 <table>
 <tr>
-<td colspan="2">
+<td width="50%" valign="top">
+
+### 🎧 [MyMusic](https://github.com/xxmrkaizoo1/BOUNTY-A72ab3t)
+Music player that learns what you like. Explainable recommendations, a 3D glass UI, an admin studio for publishing songs, and an installable PWA, all on Firebase's free plan.
+
+<a href="https://mymusic-stream.web.app"><img src="https://raw.githubusercontent.com/xxmrkaizoo1/BOUNTY-A72ab3t/main/docs/screenshots/now-playing.jpg" width="100%" alt="MyMusic screenshot" /></a>
+
+<a href="https://mymusic-stream.web.app"><img src="https://img.shields.io/badge/▶_Live_demo-0d1117?style=for-the-badge&logoColor=00ff99&labelColor=0d1117&color=00ff99" /></a>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase)
+![PWA](https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=pwa)
+![Web Audio](https://img.shields.io/badge/Web_Audio-0d1117?style=flat-square&logo=googlechrome)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🗺️ [Community Reporter](https://github.com/xxmrkaizoo1/BOUNTY-b95ae48a)
 Game-themed PWA where residents report local problems, follow them and confirm the fix, earning XP and climbing the leaderboard.
@@ -187,6 +203,7 @@ Small apps for practising APIs, auth and UI.
 
 ### 🎯 Quest Log 2026
 - [x] Build full-stack apps
+- [x] Ship installable PWAs (MyMusic, Community Reporter)
 - [ ] Level up backend & API skills
 - [ ] Ship more AI projects
 - [ ] Strengthen Linux knowledge
